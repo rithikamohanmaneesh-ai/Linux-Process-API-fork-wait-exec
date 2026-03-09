@@ -92,7 +92,8 @@ gcc process3.c -o process3
 
 <img width="890" height="352" alt="image" src="https://github.com/user-attachments/assets/7d9fb60f-7e68-425e-84b5-23126d773465" />
 
-<img width="475" height="567" alt="image" src="https://github.com/user-attachments/assets/34e6b3be-ce83-494a-a655-c7214b71114c" />
+<img width="631" height="677" alt="image" src="https://github.com/user-attachments/assets/369c248a-0751-4748-916f-88fa0c0c7b78" />
+
 
 
 
