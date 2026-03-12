@@ -57,7 +57,7 @@ int main() {
 
 
 ##OUTPUT
-(image.png)
+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
 
 
 
@@ -125,8 +125,7 @@ int main() {
 
 
 ##OUTPUT
-
-(image-1.png)
+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
 
 
 
