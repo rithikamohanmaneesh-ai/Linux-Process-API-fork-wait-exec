@@ -57,8 +57,8 @@ int main() {
 
 
 ##OUTPUT
-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
 
+![image](image/output1.png)
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
@@ -125,7 +125,7 @@ int main() {
 
 
 ##OUTPUT
-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
+![image](image/output2.png)
 
 
 
